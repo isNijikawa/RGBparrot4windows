@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="Runner" Type="System.String" Scope="User">
-      <Value Profile="(Default)">cat</Value>
+      <Value Profile="(Default)">RGBParrot</Value>
     </Setting>
     <Setting Name="Theme" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
