@@ -2,14 +2,14 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RunCat.Properties" GeneratedClassName="UserSettings">
   <Profiles />
   <Settings>
-    <Setting Name="Runner" Type="System.String" Scope="User">
-      <Value Profile="(Default)">cat</Value>
-    </Setting>
     <Setting Name="Theme" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">light</Value>
     </Setting>
     <Setting Name="Speed" Type="System.String" Scope="User">
       <Value Profile="(Default)">default</Value>
+    </Setting>
+    <Setting Name="Runner" Type="System.String" Scope="User">
+      <Value Profile="(Default)">rgbparrot</Value>
     </Setting>
   </Settings>
 </SettingsFile>
